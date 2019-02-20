@@ -21,18 +21,7 @@ Discrete | Ordinal | `dep_85` |	(Score/0,21) | Depression | MW-U | **0.013**
 
 ## Binary Logistic Regression
 
-High blood pressure? (Percentage of correct prediction: 78%) | | | | | | 95% C.I. for EXP(B)
-:-|-|-|-|-|-|-:
-
-Variable | B | S.E. | Wald | df | Sig. | **Exp(B)** | Lower | Upper
-:-|:-|:-|:-|:-|:-|:-|:-|:-
-Heart trouble? (1) | -.563 | .185 | 9.304 | 1 | **.002** | **.569** | .396 | .818
-Sex of Respondent (1) | -.748 | .189 | 15.604 | 1 | **.000** | **.473** | .327 | .686
-Body weight (Kg) | .023 | .006 | 13.821 | 1 | **.000** | **1.023** | 1.011 | 1.036
-Leisure Activities (Mins/week) | -.001 | .000 | 3.258 | 1 | .071 | .999 | .998 | 1.000
-Anxiety Score (1985) | .020 | .046 | .187 | 1 | .665 | 1.020 | .932 | 1.116
-Depression Score (1985) | .029 | .048 | .363 | 1 | .547 | 1.029 | .937 | 1.131
-Constant | -2.060 | .438 | 22.139 | 1 | .000 | .127 |  | 
+<table class="rich-diff-level-zero"> <tbody class="rich-diff-level-one"> <tr> <th colspan="7" align="left">High blood pressure? (Percentage of correct prediction: 78%)</th> <th colspan="2" align="left">95% C.I. for EXP(B)</th> </tr> <tr> <td></td> <td>B</td> <td>S.E.</td> <td>Wald</td> <td>df</td> <th align="left">Sig.</th> <th align="left">Exp(B)</th> <td>Lower</td> <td>Upper</td> </tr> <tr> <td>Heart trouble? (1)</td> <td>-.563</td> <td>.185</td> <td>9.304</td> <td>1</td> <th align="left">.002</th> <th align="left">.569</th> <td>.396</td> <td>.818</td> </tr> <tr> <td>Sex of Respondent (1)</td> <td>-.748</td> <td>.189</td> <td>15.604</td> <td>1</td> <th align="left">.000</th> <th align="left">.473</th> <td>.327</td> <td>.686</td> </tr> <tr> <td>Body weight (Kg)</td> <td>.023</td> <td>.006</td> <td>13.821</td> <td>1</td> <th align="left">.000</th> <th align="left">1.023</th> <td>1.011</td> <td>1.036</td> </tr> <tr> <td>Leisure Activities (Mins/week)</td> <td>-.001</td> <td>.000</td> <td>3.258</td> <td>1</td> <td>.071</td> <td>.999</td> <td>.998</td> <td>1.000</td> </tr> <tr> <td>Anxiety Score (1985)</td> <td>.020</td> <td>.046</td> <td>.187</td> <td>1</td> <td>.665</td> <td>1.020</td> <td>.932</td> <td>1.116</td> </tr> <tr> <td>Depression Score (1985)</td> <td>.029</td> <td>.048</td> <td>.363</td> <td>1</td> <td>.547</td> <td>1.029</td> <td>.937</td> <td>1.131</td> </tr> <tr> <td>Constant</td> <td>-2.060</td> <td>.438</td> <td>22.139</td> <td>1</td> <td>.000</td> <td>.127</td> <td></td> <td></td> </tr> </tbody> </table>
 
 ## Result
 
