@@ -1,6 +1,6 @@
 # NLSAA_Hypertension
 
-The study on the causes of high blood pressure in Nottingham Longitudinal Study of Activity and Ageing (NLSAA)
+The study on the factors of Hypertension in Nottingham Longitudinal Study of Activity and Ageing (NLSAA) dataset.
 
 SPSS output file download: https://github.com/bobleer/NLSAA_Hypertension/raw/master/SPSS_output.spv
 
