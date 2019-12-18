@@ -4,6 +4,14 @@ The study on the factors of Hypertension in Nottingham Longitudinal Study of Act
 
 SPSS output file download: https://github.com/bobleer/NLSAA_Hypertension/raw/master/SPSS_output.spv
 
+# What is NLSAA
+
+Nottingham Longitudinal Study of Activity and Ageing (NLSAA) is an 8-year society survey on the dwellers who aged 65 or over. Specifically, three interviews were conducted in 1985, 1989, and 1993 respectively. In the first time, the number of interviewees is 1042, thereinto the ratio of age had been intentionally adjusted ([65-74]:[75+]≈1:1). According to the results of interviews, NLSAA dataset had been generated and included 1256 variables which covered numerous aspects of sociological statistics.  
+
+# Research Aim
+
+In effects to further reducing the effects of hypertension in the UK, this study has two purposes: to describes the latent risk factors for this disease, and to explain this by developing and testing theory through NLSAA dataset.  
+
 ## Potential Factor & Research Methods
 
 Data type |	Sub-type | Variable |	Value scale |	Description | Method | Sig.
